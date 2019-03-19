@@ -1,4 +1,4 @@
-baseURL = "vltest.netlify.com"
+baseURL = "https://vltest.netlify.com"
 languageCode = "en-us"
 title = "Netlify Test Site"
 theme = "minimal"
