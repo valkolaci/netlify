@@ -16,6 +16,7 @@ googleAnalytics = ""
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     copyright = "&copy; All rights reserved."
+    mathjax = false
 
 [[menu.main]]
     url = "/"
